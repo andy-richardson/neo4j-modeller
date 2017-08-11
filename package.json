@@ -1,0 +1,26 @@
+{
+  "name": "neo4j-modeller",
+  "version": "1.0.0",
+  "description": "Modeling middleware for Neo4j",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neo4j",
+    "graphql",
+    "database",
+    "driver",
+    "graph"
+  ],
+  "author": "Andy Richardson",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-env": "^1.6.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "seraph": "^0.15.2"
+  }
+}
